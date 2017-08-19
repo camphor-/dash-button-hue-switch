@@ -1,0 +1,11 @@
+{
+  "name": "dash-button-hue-switch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yusuke Miyazaki",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "node-dash-button": "^0.6.1"
+  }
+}
